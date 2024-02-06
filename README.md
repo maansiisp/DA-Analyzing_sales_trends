@@ -10,6 +10,8 @@ Let's know a little about the db i chose :)
 
 (REF: UDACITY) -- * PARCH & POSEY is not a real company , it's fabricated to simulate real-world problems *
 
+ER DIAGRAM :
+
 ![Screenshot (2652)](https://github.com/maansiisp/DA-project-SQL-/assets/159099467/ba12fe3e-327a-4979-aa42-6ccb7fdcc13e)
 
 
