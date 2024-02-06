@@ -11,7 +11,7 @@ Let's know a little about the db i chose :)
 (REF: UDACITY) -- * PARCH & POSEY is not a real company , it's fabricated to simulate real-world problems *
 
 
-  https://video.udacity-data.com/topher/2017/October/59e946e7_erd/erd.png
+
 
 
 
